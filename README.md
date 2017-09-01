@@ -14,3 +14,15 @@ The manager can create the appointment slots using drag and drop - it will autom
 Frontend validations are done with AngularJs
 
 Unit Tests are written in /Unittest Controller
+
+# How to setup this:
+
+1.) Download zip folder and copy it in your server directory 
+    
+    MAMP (Applications/MAMP/htdocs/)
+    WAMP (C:/wamp/www/)
+    XAMPP (C:/xampp/htdocs/)
+    
+2.) Go to application/config/config.php
+3.) update base_url path to your http://localhost/angular-doc-appointment
+4.) Run in your browser http://localhost/angular-doc-appointment
