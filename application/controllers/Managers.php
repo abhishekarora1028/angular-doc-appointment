@@ -1,6 +1,14 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+/**
+ * Managers Controller Class
+ *
+ * Used to deal with Appointment Model and Views for creating/deleting all appointments
+ *
+ * @project	AngularJs Doctors Appointment
+ * @package 	Controllers
+ * @author	Abhishek Arora
+ */
 class Managers extends CI_Controller {
 
     function __construct() {

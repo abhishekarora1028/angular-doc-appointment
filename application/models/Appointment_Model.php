@@ -1,5 +1,13 @@
 <?php
-
+/**
+ * Appointment Model Class
+ *
+ * Used to deal with appointment table in database.
+ *
+ * @project	AngularJs Doctors Appointment
+ * @package 	Models
+ * @author	Abhishek Arora
+ */
 Class Appointment_Model extends CI_Model {
     
     /**

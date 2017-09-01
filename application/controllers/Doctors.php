@@ -1,7 +1,14 @@
 <?php
-
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+/**
+ * Doctors Controller Class
+ *
+ * Used to deal with Doctors Model and Views for getting/updating all doctors appointments
+ *
+ * @project	AngularJs Doctors Appointment
+ * @package 	Controllers
+ * @author	Abhishek Arora
+ */
 class Doctors extends CI_Controller {
 
     function __construct() {

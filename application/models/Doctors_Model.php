@@ -1,5 +1,13 @@
 <?php
-
+/**
+ * Doctors_Model Class
+ *
+ * Used to deal with doctor table in database.
+ *
+ * @project	AngularJs Doctors Appointment
+ * @package 	Models
+ * @author	Abhishek Arora
+ */
 Class Doctors_Model extends CI_Model {
 
     

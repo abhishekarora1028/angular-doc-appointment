@@ -1,7 +1,14 @@
 <?php
-
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+/**
+ * Appointments Controller Class
+ *
+ * Used to deal with Appointment Model and Views for  Add/edit/delete/request appointments
+ *
+ * @project	AngularJs Doctors Appointment
+ * @package 	Controllers
+ * @author	Abhishek Arora
+ */
 class Appointments extends CI_Controller {
 
     function __construct() {
